@@ -23,6 +23,8 @@ public class Main {
         System.out.println();
 
         st.printPosition("abc");
+        st.printPosition("bca");
+        st.printPosition("abca");
 
     }
 }
